@@ -1,0 +1,670 @@
+fileFormatVersion: 2
+guid: cc34b8c96484bba41ac071a8f42859f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6181569739515324517
+    second: plagueLoading_0
+  - first:
+      213: -4139734161812545624
+    second: plagueLoading_1
+  - first:
+      213: -574480989434753528
+    second: plagueLoading_2
+  - first:
+      213: 2720592627476729563
+    second: plagueLoading_3
+  - first:
+      213: 4663146746507597215
+    second: plagueLoading_4
+  - first:
+      213: -3976211611979753988
+    second: plagueLoading_5
+  - first:
+      213: 8664085359494160298
+    second: plagueLoading_6
+  - first:
+      213: -3341936277785439942
+    second: plagueLoading_7
+  - first:
+      213: -3156382696173372128
+    second: plagueLoading_8
+  - first:
+      213: -6930415627267206995
+    second: plagueLoading_9
+  - first:
+      213: 1495466722259380373
+    second: plagueLoading_10
+  - first:
+      213: -2059396186197485413
+    second: plagueLoading_11
+  - first:
+      213: 6365388768823973928
+    second: plagueLoading_12
+  - first:
+      213: 576996878170581100
+    second: plagueLoading_13
+  - first:
+      213: 2661827538525232369
+    second: plagueLoading_14
+  - first:
+      213: 4686905709035294234
+    second: plagueLoading_15
+  - first:
+      213: -7085297875376223960
+    second: plagueLoading_16
+  - first:
+      213: -3620176927697976477
+    second: plagueLoading_17
+  - first:
+      213: -3174880160899377582
+    second: plagueLoading_18
+  - first:
+      213: 1757783038045636048
+    second: plagueLoading_19
+  - first:
+      213: 7561518302948469010
+    second: plagueLoading_0
+  - first:
+      213: -396803003470850464
+    second: plagueLoading_1
+  - first:
+      213: 4040307155383575615
+    second: plagueLoading_2
+  - first:
+      213: -8823066339230888291
+    second: plagueLoading_3
+  - first:
+      213: 3341804068999571166
+    second: plagueLoading_4
+  - first:
+      213: 3219833788193313754
+    second: plagueLoading_5
+  - first:
+      213: 8823255971953839317
+    second: plagueLoading_6
+  - first:
+      213: 9113377860978466459
+    second: plagueLoading_7
+  - first:
+      213: 3857602361305900837
+    second: plagueLoading_8
+  - first:
+      213: -1819742416890294036
+    second: plagueLoading_9
+  - first:
+      213: -8146437830753291506
+    second: plagueLoading_10
+  - first:
+      213: 6590600689115175379
+    second: plagueLoading_11
+  - first:
+      213: 8685091394183554101
+    second: plagueLoading_12
+  - first:
+      213: -4429797103267633694
+    second: plagueLoading_13
+  - first:
+      213: -5609037365538836155
+    second: plagueLoading_14
+  - first:
+      213: 5892402515592704214
+    second: plagueLoading_15
+  - first:
+      213: -297842817900318620
+    second: plagueLoading_16
+  - first:
+      213: 8921647127024928582
+    second: plagueLoading_17
+  - first:
+      213: 4060924451865048042
+    second: plagueLoading_18
+  - first:
+      213: 5888979357324546655
+    second: plagueLoading_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plagueLoading_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2454
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219abd975d8efe860800000000000000
+      internalID: 7561518302948469010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_1
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2454
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066df4c45c54e7af0800000000000000
+      internalID: -396803003470850464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_2
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2454
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f346b1c83fd021830800000000000000
+      internalID: 4040307155383575615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_3
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2454
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ecf6c39eb2e8580800000000000000
+      internalID: -8823066339230888291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_4
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2454
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6aca95819706e20800000000000000
+      internalID: 3341804068999571166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1636
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3101d55c52fac20800000000000000
+      internalID: 3219833788193313754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1636
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc07a21f80827a70800000000000000
+      internalID: 8823255971953839317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_7
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1636
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ed78b31e8397e70800000000000000
+      internalID: 9113377860978466459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_8
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1636
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527a85eb8e4f88530800000000000000
+      internalID: 3857602361305900837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_9
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1636
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce01b8ac9e9feb6e0800000000000000
+      internalID: -1819742416890294036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 818
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03752164f902fe80800000000000000
+      internalID: -8146437830753291506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_11
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 818
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d997238864867b50800000000000000
+      internalID: 6590600689115175379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_12
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 818
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534ec108b94a78870800000000000000
+      internalID: 8685091394183554101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_13
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 818
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5ada031033682c0800000000000000
+      internalID: -4429797103267633694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_14
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 818
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5413a27eb32b822b0800000000000000
+      internalID: -5609037365538836155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0758f5ed406c150800000000000000
+      internalID: 5892402515592704214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_16
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 0
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46076200989dddbf0800000000000000
+      internalID: -297842817900318620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_17
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 0
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64784b90bce00db70800000000000000
+      internalID: 8921647127024928582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_18
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 0
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae33d15f54d4b5830800000000000000
+      internalID: 4060924451865048042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plagueLoading_19
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 0
+        width: 818
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5210fa368bd9b150800000000000000
+      internalID: 5888979357324546655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 045e9b706a9f4a5478f54b6179f40acd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
